@@ -1,6 +1,6 @@
 [submodule "lib-projs/FNA"]
 	path = lib-projs/FNA
-	url = https://github.com/FNA-XNA/FNA.git
+	url = https://github.com/Steell/FNA.git
 [submodule "lib-projs/MonoMod"]
 	path = lib-projs/MonoMod
 	url = https://github.com/0x0ade/MonoMod.git
